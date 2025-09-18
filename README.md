@@ -1,8 +1,8 @@
 <img src="https://vinvictus.fotekdesign.com/application/themes/vinvictus/assets/images/graphics/vinvictus-theme-v2-release.webp" alt="Vinvictus FusionCMS Theme v2" width="500" />
-**Vinvictus v2 officially released and available to purchase, please check out the demo website, any questions - drop a comment or get in touch via Discord or PM.**
+
+Vinvictus v2 officially released and available to purchase, please check out the demo website, any questions - drop a comment or get in touch via Discord or PM.
 
 **Key Features**
-
 * **Extensive customization options** via INI config files - Complete control without coding
 * **Mobile-responsive design** with Bootstrap 5.3.8 framework
 * **Dynamic hero section** with video backgrounds and overlay content
