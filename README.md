@@ -1,3 +1,4 @@
+<img src="https://vinvictus.fotekdesign.com/application/themes/vinvictus/assets/images/graphics/vinvictus-theme-v2-release.webp" alt="Vinvictus FusionCMS Theme v2" width="500" />
 **Vinvictus v2 officially released and available to purchase, please check out the demo website, any questions - drop a comment or get in touch via Discord or PM.**
 
 **Key Features**
